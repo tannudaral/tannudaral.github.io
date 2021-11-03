@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
 * {
     box-sizing: border-box;
   }
@@ -5,7 +7,7 @@
   body {
     margin: 0px;
     padding: 0px;
-    font: poppins; 
+    font-family: 'Poppins', sans-serif;
 }
   
   /* #main {
@@ -351,7 +353,7 @@ svg text {
  }
 
 .tech{
-  padding: 2%;
+  padding: 4%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -407,3 +409,121 @@ svg text {
   border-radius: 50vw;
   border: .1em solid hsl(180, 40%, 67%);
 }
+
+.tech-row{
+  display: flex;
+  align-items: center;
+justify-content:center;
+padding: 0%;
+}
+.tech-items{
+display: flex;
+padding: 1% 4%;
+width: fit-content;
+background: hsl(181, 21%, 37%);
+border-radius: 10px;
+margin: 0.5%;
+color: white;
+
+}
+
+.tech-items:hover{
+background: hsla(261, 52%, 21%, 1);
+background: linear-gradient(90deg, hsla(261, 52%, 21%, 1) 0%, hsla(184, 74%, 38%, 1) 100%);
+background: -moz-linear-gradient(90deg, hsla(261, 52%, 21%, 1) 0%, hsla(184, 74%, 38%, 1) 100%);
+background: -webkit-linear-gradient(90deg, hsla(261, 52%, 21%, 1) 0%, hsla(184, 74%, 38%, 1) 100%);
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#2E1A52", endColorstr="#199FA9", GradientType=1 );
+}
+
+.tech-icon{
+width: 50px;
+height: 50px;
+padding-right: 5px;
+}
+
+.education {
+  margin: 10% 0% -20% 0%;
+  text-align: left;
+  display: block;
+} 
+
+/* img{
+  border-radius: 50%;
+} */
+
+
+.edu--icon{
+  margin: 20% 0px 0px 2%;
+}
+
+.edu--text{
+  margin: -10% 0% 0% 0%;
+}
+
+.fab, .fas {
+  padding: 0% 1% 0% 5%;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: -2% 0%;
+}
+
+.fa-instagram{ color: #cc2366; }
+
+.fa-youtube { color: red; }
+
+.fa-dev, .fa-github { color: black; }
+
+.fa-linkedin{color: #0072b1;}
+
+.fa-twitter{ color: #1da1f2;}
+
+.fa-envelope-open { color:hsl(276, 100%, 24%); }
+
+.fa-dev:hover{
+  font-size: 40px;
+  transition: all 0.1s ease;
+}
+
+.fa-twitter:hover{
+  font-size: 40px;
+  transition: all 0.1s ease;
+}
+
+.fa-github:hover{
+  font-size: 40px;
+  transition: all 0.1s ease;
+}
+
+.fa-envelope-open:hover{
+  font-size: 40px;
+  transition: all 0.1s ease;
+}
+
+.fa-instagram:hover{
+  font-size: 40px;
+  transition: all 0.1s ease;
+}
+
+.fa-youtube:hover{
+  font-size: 40px;
+  transition: all 0.1s ease;
+}
+
+.fa-linkedin:hover{
+  font-size: 40px;
+  transition: all 0.1s ease;
+}
+
+/* .social--icons a{
+  font-size: 20px;
+  padding: 0% 0.5% 0% 1%;
+  width: 10px;
+  top: 50%;
+  left: 50%;
+  transform: translate(1750%, 2500%);
+
+} */
+
+
