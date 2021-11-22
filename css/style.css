@@ -17,7 +17,7 @@ h6 {
 }
 
 a {
-    color: #313131;
+    color: #36013f;
     transition: .3s;
 }
 
@@ -219,10 +219,11 @@ a:focus {
     .navbar {
         padding: 15px;
         background: #36013f !important;
+        color: #f0b5ff;
     }
     
     .navbar .navbar-brand {
-        color: #36013f;
+        color: #ffffff;
     }
     
     .navbar .navbar-nav {
@@ -252,7 +253,7 @@ a:focus {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    /* height: 100vh; */
 }
 
 .hero .container-fluid {
