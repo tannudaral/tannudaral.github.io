@@ -1,0 +1,25 @@
+---
+layout: archive
+title: "Projects"
+permalink: /portfolio/
+author_profile: true
+---
+
+{% include base_path %}
+
+<style>
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 20px;
+}
+</style>
+
+<!-- {% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %} -->
+<div class="portfolio-grid">
+  {% for post in site.portfolio %}
+    {% include archive-single.html %}
+  {% endfor %}
+</div>
