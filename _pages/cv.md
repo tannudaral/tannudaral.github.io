@@ -9,14 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-====== 
+## Education
 * B.Tech. in **Computer Science and Engineering**, Indira Gandhi Delhi Technical University for Women (IGDTUW)
-  * **Courses:** Data Structures, Design and Analysis of Algorithms, Operating Systems, Object-Oriented Programming, Computer Networks, Human Computer Interaction, Machine Learning, Cloud Computing, Embedded Systems
-  * **Grade:** 8.54
+  * December 2020 - May 2024
+  * **[Courses](https://www.igdtuw.ac.in/syllabus/B.tech%20-%20CSE%20CBCS%20%20Syllabus.pdf)**: Data Structures, Design and Analysis of Algorithms, Operating Systems, Object-Oriented Programming, Computer Networks, Human Computer Interaction, Machine Learning, Cloud Computing, Embedded Systems 
+  * **Grade**: <u><b>8.62</b></u>
 
-Work experience
-======
+<hr>
+
+## Work experience
 * **Summer 2024:** Intern at Saksham Foundation, Delhi
   * Duties includes: Design, Development, Testing and Managing of AT Portal for NCAHT, IIT Delhi
   * Supervisor: Dr. Piyush Chanana, Lead Scientist, IIT Delhi
@@ -36,10 +37,17 @@ Work experience
   * Supervisor: Dr. Harpreet Singh and Dr. Jasleen Kaur
   * Remarks: Good moral character and conduct
   
-Skills
-======
-* **Languages:** C++, Python (pandas, NumPy, matplotlib, scikit-learn), SQL, HTML, CSS, JavaScript
-* **Technologies/Frameworks:** GitHub, React, Nodejs, Flutter, Firebase, WordPress, Shopify
+* **Summer 2021:** Summer Research Intern at ETI Labs Pvt. Ltd.
+  * Training on *Internet of Things and Machine learning*
+  * Completed a Project on *Face Recognition Based Attendance System using Python and OpenCV*
+  * Supervisor: Dr. S.R.N. Reddy, HOD CSE Department, IGDTUW
+  * Remarks: Good Performance
+
+<hr>
+
+## Skills
+* **Languages:** C/C++, Python (pandas, NumPy, matplotlib, scikit-learn), SQL, HTML, CSS, JavaScript
+* **Technologies/Frameworks:** GitHub, React, Nodejs, Flutter, Firebase, WordPress, Shopify, MongoDB
 
 <!-- Publications
 ======
@@ -60,8 +68,9 @@ Teaching
   {% endfor %}</ul>
   -->
 
-Service and leadership
-======
+<hr>
+
+## Leadership
 
 * **Fall 2022:** Hackathon Mentor at Innerve
   * Mentored 20 Teams at Innerve Hacks, the Technical fest of IGDTUW.
@@ -69,6 +78,6 @@ Service and leadership
 * **Fall 2021:** Web Development Associate and CS/IT Team Head Coordinator
   * Worked on the frontend and backend using HTML, CSS and Javascript, Nodejs, Express and MongoDB.
   * Lead a team of 06 (Six) Head Coordinators, engaged in development of Innerve’s website.
-  * Developed various games using C\# and vanilla JavaScript for the CS/IT Tech Events.
+  * Developed various games using C\# and JavaScript for the CS/IT Tech Events.
 * **2021-22:** Social Media Head at Greensphere
   * Worked in Greensphere: The Eco Club of IGDTUW - Lead a team of 15 (Fifteen), engaged in Project Echo by WHO 2022.
